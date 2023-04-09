@@ -10,5 +10,5 @@
   srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=cyclothymia&show_icons=true&theme=dracula"
   media="(prefers-color-scheme: dark)"
 />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyclothymia&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyclothymia&show_icons=true&count_private=true" />
 </picture>
