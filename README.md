@@ -1,6 +1,6 @@
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=cyclothymia&show_icons=true&theme=tokyonight"
+  srcset="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyclothymia&layout=pie&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)"
   media="(prefers-color-scheme: dark)"
 />
 <img src="https://github-readme-stats.vercel.app/api?username=cyclothymia&show_icons=true" />
