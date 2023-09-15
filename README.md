@@ -1,4 +1,4 @@
-# My name is [Mason] (https://github.com/cyclothymia)
+# My name is Mason!
 
 ## I'm a Cyber Security & Psychology Student in Sydney, Australia 🇦🇺
 
