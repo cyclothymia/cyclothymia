@@ -30,7 +30,7 @@
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-plastic&logo=java&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-plastic&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-plastic&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-777BB4?style=flat-plastic&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-2496ED?style=flat-plastic&logo=python&logoColor=white)
 ### Software & Tools 
 
 ![npm](https://img.shields.io/badge/-npm-CB3837?style=flat-plastic&logo=npm&logoColor=white)
