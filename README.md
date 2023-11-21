@@ -58,6 +58,8 @@
 
 [![cyclothymia's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mmm&style=compact&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a)](https://github.com/anuraghazra/github-readme-stats)
 
+[![wakatime](https://wakatime.com/badge/user/b1bbca7a-97bf-49bf-9214-4ffdf989dc8e.svg)](https://wakatime.com/@b1bbca7a-97bf-49bf-9214-4ffdf989dc8e)
+
 <div align="centre">
 <img src="https://komarev.com/ghpvc/?username=cyclothymia&&style=flat-square" align="center" />
 </div>
