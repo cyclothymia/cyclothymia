@@ -53,13 +53,22 @@
 ---
 
 ### Statistics
-
+<div align="center">
 <a href="https://github.com/cyclothymia"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=cyclothymia&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /></a>
+<br></br>
+<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=mmm\&layout=compact&style=compact&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a" />
+</a>
+</div>
 
-[![cyclothymia's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mmm\&layout=compact&style=compact&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a)](https://github.com/anuraghazra/github-readme-stats)
-
-[![wakatime](https://wakatime.com/badge/user/b1bbca7a-97bf-49bf-9214-4ffdf989dc8e.svg)](https://wakatime.com/@b1bbca7a-97bf-49bf-9214-4ffdf989dc8e)
-
-<div align="centre">
-<img src="https://komarev.com/ghpvc/?username=cyclothymia&&style=flat-square" align="center" />
+<div align="center">
+<a href="https://wakatime.com/@b1bbca7a-97bf-49bf-9214-4ffdf989dc8e" target="_blank">
+<img src="https://wakatime.com/badge/user/b1bbca7a-97bf-49bf-9214-4ffdf989dc8e.svg" style="margin-bottom: 5px;" />
+</a>
+<a href="https://donate.stripe.com/fZe02w8mLbhX0k8aEE" target="_blank">
+<img src="https://img.shields.io/badge/Donate-Here-green.svg" style="margin-bottom: 5px;" />
+</a>
+<a href="https://komarev.com/ghpvc/?username=cyclothymia&&style=flat-square" target="_blank">
+<img src="https://komarev.com/ghpvc/?username=cyclothymia&&style=flat-square" style="margin-bottom: 5px;" />
+</a>
 </div>
