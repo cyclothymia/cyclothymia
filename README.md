@@ -1,7 +1,4 @@
-# Hello, my name is Mason!
-
-## Currently, i'm a University student based in Sydney, Australia 🇦🇺, studying Cyber Security & Psychology.
-
+# Hello there!
 ---
 
 ### Contact Buttons
